@@ -6,7 +6,7 @@
 </head>
 <body>
   <h2 align="left">Hi 🌺! My name is Jennifer ✨</h2>
-  <p>I'm a multiprogramming-app course graduated. Now i'm studying a new course about programming and web design to expand my programming skills. </p>
+  <p>I'm a cross-plataform developer. Now i'm studying a new course about programming and web design to expand my programming skills. </p>
   <p>Check my <a href="https://jenniferdam.github.io">jenniferdam.github.io</a> !</p>
   
   <div class="pictures">
